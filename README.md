@@ -22,9 +22,11 @@ Therefore, this project turned into a decorative artifact production project.
 ## Important Notice
 
 1.Although this repository seemed very new, this was actually a project I have made in the summer
+
 2.I have some of the PCBs printed out, and feel free to contact me for a demo of the actual production for you in-person(if you are at the UW). 
 
 ## Contact information
 
 for UW students, please contact me through my UW email: xbi3@uw.edu for any thoughts, ideas, discussions on this project
+
 for non-UW students, please contact kevinxianzhi@gmail.com
