@@ -9,3 +9,5 @@ Through researching about the RFID and NFC stuff, I found it kind of hard for me
 Therefore, this project turned into a decorative artifact production project. 
 
 ## Final Results
+
+![The front of the "Huskey" card, UW logo with cherry blossoms designed by myself](./
