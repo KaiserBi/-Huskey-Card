@@ -15,6 +15,6 @@ Therefore, this project turned into a decorative artifact production project.
 
 This is the front of the card, the UW logo with cherry blossoms was designed by me.
 
-(./DSC09757.jpg)
+![](./DSC09757.jpg)
 
 This is the back of the card with our famous UW alumni Bruce Lee's Famous quote inscripted. 
