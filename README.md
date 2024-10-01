@@ -1,6 +1,6 @@
 # -Huskey-Card
 
-##Introduction
+## Introduction
 
 This is a project where I have made a custom PCB card initially seeking to replace the University of Washington Husky Card with a better appearance. 
 
@@ -8,4 +8,4 @@ Through researching about the RFID and NFC stuff, I found it kind of hard for me
 
 Therefore, this project turned into a decorative artifact production project. 
 
-##Final Results
+## Final Results
