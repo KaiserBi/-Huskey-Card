@@ -13,8 +13,17 @@ Therefore, this project turned into a decorative artifact production project.
 
 ![The front of the "Huskey" card, UW logo with cherry blossoms designed by myself](./DSC09742.jpg)
 
-This is the front of the card, the UW logo with cherry blossoms was designed by me.
+### This is the front of the card, the UW logo with cherry blossoms was designed by me.
 
 ![](./DSC09757.jpg)
 
-This is the back of the card with our famous UW alumni Bruce Lee's Famous quote inscripted. 
+### This is the back of the card with our famous UW alumni Bruce Lee's Famous quote inscripted. 
+
+## Important Notice
+
+1.Although this repository seemed very new, this was actually a project I have made in the summer
+
+## Contact information
+
+for UW students, please contact me through my UW email: xbi3@uw.edu for any thoughts, ideas, discussions on this project
+for non-UW students, please contact kevinxianzhi@gmail.com
