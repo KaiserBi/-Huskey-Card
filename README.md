@@ -9,6 +9,13 @@ Through researching about the RFID and NFC stuff, I found it kind of hard for me
 
 Therefore, this project turned into a decorative artifact production project. 
 
+## Things Used
+
+I used canva, an online design website for the cherry blossom UW logo part. Then I transferred it to inkscape for tracing it into SVG. 
+
+For the PCB, I designed it with Kicad and placed an order on JLC for the manufacturing.
+
+
 ## Final Results
 
 ![The front of the "Huskey" card, UW logo with cherry blossoms designed by myself](./DSC09742.jpg)
