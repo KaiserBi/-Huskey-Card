@@ -10,4 +10,4 @@ Therefore, this project turned into a decorative artifact production project.
 
 ## Final Results
 
-![The front of the "Huskey" card, UW logo with cherry blossoms designed by myself](./
+![The front of the "Huskey" card, UW logo with cherry blossoms designed by myself](./DSC09742.jpg)
